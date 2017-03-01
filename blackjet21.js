@@ -1,8 +1,5 @@
-//JavaScript-C24.2.0 (SpiderMonkey)
 
 print("Hi Entelect!\n");
-
-
 
 
 var Blackjack21 ={
