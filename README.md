@@ -1,3 +1,3 @@
 # Global
 
-Global JavaScript Projects. Select a branch.
+Global JavaScript Projects.
