@@ -1,3 +1,8 @@
+// Result example 
+// Original paragraph >> محمد ادهم apple das dasd asd asdd محمد
+// Result >>  محمد ادهم <span class='english'> apple das dasd asd asdd</span> محمد
+
+
 function convertParagraph(paragraph){
 
 var newParagraphHtml = "";
